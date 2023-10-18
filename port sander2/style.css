@@ -1,0 +1,55 @@
+/* Estilo geral da página e imagem de fundo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #fff; /* Define a cor do texto como branco */
+    background-image: url('https://static.vecteezy.com/ti/fotos-gratis/p2/22008949-tecnologia-fundo-azul-brilho-luz-abstrato-digital-grafico-projeto-papel-de-parede-cpu-ou-gpu-placa-mae-lasca-generativo-ai-foto.jpg'); /* Substitua pelo seu link para a imagem de fundo */
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do cabeçalho */
+header {
+    background-color: rgba(51, 51, 51, 0.8);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+/* Estilo dos links de navegação */
+header a {
+    text-decoration: none;
+    color: #fff; /* Define a cor do texto dos links para branco */
+    margin: 10px;
+    font-size: 18px;
+}
+
+/* Estilo das seções */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #fff; /* Define a cor do texto dos títulos para branco */
+}
+
+p {
+    font-size: 16px;
+    color: #fff; /* Define a cor do texto das informações para branco */
+}
